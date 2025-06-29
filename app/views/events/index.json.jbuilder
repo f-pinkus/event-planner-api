@@ -4,5 +4,4 @@ json.array! @events do |event|
   json.date event.date
   json.attendees_names event.attendees_name
   json.attendees_emails event.attendees_email
-  
 end
